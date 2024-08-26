@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="جوّي | OSN TV Now" tvg-logo="https://i.imgur.com/dnWJQjM.png" group-title="STC Tv جوّي 〄",جوّي | OSN TV Now
+http://v111.co:80/live/9954/9954/215457.ts
+#EXTINF:-1 tvg-id="" tvg-name="جوّي | OSN TV Yahala" tvg-logo="https://i.imgur.com/Ahq4f5p.png" group-title="STC Tv جوّي 〄",جوّي | OSN TV Yahala
+http://v111.co:80/live/9954/9954/215456.ts
+#EXTINF:-1 tvg-id="" tvg-name="جوّي | OSN TV Yahala Aflam" tvg-logo="https://i.imgur.com/70lqmVD.png" group-title="STC Tv جوّي 〄",جوّي | OSN TV Yahala Aflam
+http://v111.co:80/live/9954/9954/215455.ts
+#EXTINF:-1 tvg-id="" tvg-name="جوّي | OSN Yahala Bil Arabi" tvg-logo="https://i.imgur.com/KVL2D0K.png" group-title="STC Tv جوّي 〄",جوّي | OSN Yahala Bil Arabi
+http://v111.co:80/live/9954/9954/215454.ts
+#EXTINF:-1 tvg-id="" tvg-name="جوّي | OSN Mezze" tvg-logo="https://i.imgur.com/Jk79O1m.png" group-title="STC Tv جوّي 〄",جوّي | OSN Mezze
+http://v111.co:80/live/9954/9954/215453.ts
